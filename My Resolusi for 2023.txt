@@ -1,0 +1,3 @@
+List resolusi
+1. selesaikan tutorial belajar git dan github di youtube channel pak sandhika galih
+2. selesaikan materi training dari dicoding
