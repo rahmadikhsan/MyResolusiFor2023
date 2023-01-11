@@ -1,5 +1,7 @@
 List resolusi
 1. selesaikan tutorial belajar git dan github di youtube channel pak sandhika galih
+fokus per 1 modul
+latihannya harus di kembangkan dengan contoh kasus sendiri
 2. selesaikan materi training dari dicoding
 3. belajar buka bisnis baru
 4. belajar dunia tanaman di youtube
